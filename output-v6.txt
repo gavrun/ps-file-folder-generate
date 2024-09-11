@@ -1,0 +1,754 @@
+
+Starting folder and file structure creation in 'D:\ps-file-folder-generate\root'. Target size: 0.025 GB, File size: 0.1 MB
+Created root: D:\ps-file-folder-generate\root
+Created folder: D:\ps-file-folder-generate\root\Folder001\Subfolder01
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Z.txt
+Created 26 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder001\Subfolder02
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Z.txt
+Created 52 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder002\Subfolder01
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Z.txt
+Created 78 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder002\Subfolder02
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Z.txt
+Created 104 files pattern from A.txt to Z.txt
+Folder and files structure created/updated. Files created: 104. Total files: 104. Current size: 0.01 GB.
+
+
+Starting folder and file structure creation in 'D:\ps-file-folder-generate\root'. Target size: 0.025 GB, File size: 0.1 MB
+Root folder already exists: D:\ps-file-folder-generate\root
+Root folder is already: 0.01 GB
+Folder already exists: D:\ps-file-folder-generate\root\Folder001
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Folder already exists: D:\ps-file-folder-generate\root\Folder002
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder003\Subfolder01
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder01\Z.txt
+Created 26 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder003\Subfolder02
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder003\Subfolder02\Z.txt
+Created 52 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder004\Subfolder01
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder01\Z.txt
+Created 78 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder004\Subfolder02
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder004\Subfolder02\Z.txt
+Created 104 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder005\Subfolder01
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder01\Z.txt
+Created 130 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder005\Subfolder02
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\W.txt
+Created 153 files pattern from A.txt to Z.txt
+Folder and files structure created/updated. Files created: 153. Total files: 257. Current size: 0.025 GB.
+
+
+Starting folder and file structure creation in 'D:\ps-file-folder-generate\root'. Target size: 0.025 GB, File size: 0.1 MB
+Root folder already exists: D:\ps-file-folder-generate\root
+Root folder is already: 0.025 GB
+Folder already exists: D:\ps-file-folder-generate\root\Folder001
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01
+Created 0 files pattern from A.txt to Z.txt
+Folder and files structure created/updated. Files created: 0. Total files: 257. Current size: 0.025 GB.
+
+
+Starting folder and file structure creation in 'D:\ps-file-folder-generate\root'. Target size: 0.03 GB, File size: 0.1 MB
+Root folder already exists: D:\ps-file-folder-generate\root
+Root folder is already: 0.025 GB
+Folder already exists: D:\ps-file-folder-generate\root\Folder001
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder01\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder001\Subfolder02\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Folder already exists: D:\ps-file-folder-generate\root\Folder002
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder01\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder002\Subfolder02\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Folder already exists: D:\ps-file-folder-generate\root\Folder003
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder01\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder003\Subfolder02\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Folder already exists: D:\ps-file-folder-generate\root\Folder004
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder01\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder004\Subfolder02\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Folder already exists: D:\ps-file-folder-generate\root\Folder005
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\W.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\X.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\Y.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder01\Z.txt
+Created 0 files pattern from A.txt to Z.txt
+Subfolder already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\A.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\B.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\C.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\D.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\E.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\F.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\G.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\H.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\I.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\J.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\K.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\L.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\M.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\N.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\O.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\P.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\Q.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\R.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\S.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\T.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\U.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\V.txt
+File already exists: D:\ps-file-folder-generate\root\Folder005\Subfolder02\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder005\Subfolder02\Z.txt
+Created 3 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder006\Subfolder01
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\V.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\W.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\X.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\Y.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder01\Z.txt
+Created 29 files pattern from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root\Folder006\Subfolder02
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\A.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\B.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\C.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\D.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\E.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\F.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\G.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\H.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\I.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\J.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\K.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\L.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\M.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\N.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\O.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\P.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\Q.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\R.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\S.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\T.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\U.txt
+Created file: D:\ps-file-folder-generate\root\Folder006\Subfolder02\V.txt
+Created 51 files pattern from A.txt to Z.txt
+Folder and files structure created/updated. Files created: 51. Total files: 308. Current size: 0.03 GB.
+
