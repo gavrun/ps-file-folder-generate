@@ -20,3 +20,12 @@ files may be name from A to Z for simplicity, Z.txt for example
 configurable total size, file size, folder count, folder depth, file count
 
 current script execution folder and create new 'root' folder 
+
+variability for creating groups of folders by sise and structure
+
+creating a pyramid style shape of file structure 
+from fat heavy folders/subfolders with 4 MB files to thin folders without subfolders, folders without files
+
+modify filename pattern to AA, AB array
+
+will add more later when i know how

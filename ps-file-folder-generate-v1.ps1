@@ -1,15 +1,15 @@
 # Get the current script execution directory
-$rootPath = Join-Path (Get-Location) 'root'  # Root path of the SMB share "C:\path\to\smb\share"
+$rootPath = Join-Path (Get-Location) 'root'  # Root path of the SMB share "C:\path\to\smb\share" and SMB share "C:\path\to\smb\share\root\*"
 
 # Configurable parameters
-$totalSizeGB = 1                    # Total size of the share (1, 0.5, 0,25 GB)
+$totalSizeGB = 1                    # Total size of the share (0.5, 0.25, 1 GB)
 $fileSizeMB = 1                     # Each file size (in MB)
 $folderCount = 10                   # Number of first-level folders
 $subfolderCount = 5                 # Number of subfolders per folder
 $fileNamingPattern = @("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z")
 
-Write-Host "Starting folder and file structure creation in '$rootPath'. Total size: $totalSizeGB GB, File size: $fileSizeMB MB."
-Write-Host ""
+Write-Output "Starting folder and file structure creation in '$rootPath'. Total size: $totalSizeGB GB, File size: $fileSizeMB MB."
+Write-Output ""
 
 # Create the new 'root' folder in the current directory if it doesn't exist
 if (-not (Test-Path -Path $rootPath)) {
@@ -48,7 +48,7 @@ for ($folderIndex = 1; $folderIndex -le $folderCount; $folderIndex++) {
             [System.IO.File]::WriteAllBytes($filePath, $byteArray)
             $currentFileCount++
 
-            Write-Host "Created file: $filePath"
+            Write-Output "Created file: $filePath"
             
             if ($currentFileCount -ge $totalFiles) { break }  # Stop when total size reached
         }
@@ -59,5 +59,5 @@ for ($folderIndex = 1; $folderIndex -le $folderCount; $folderIndex++) {
     if ($currentFileCount -ge $totalFiles) { break }  # Stop when total size reached
 }
 
-Write-Host ""
-Write-Host "Folder and file structure created. Total files created: $currentFileCount"
+Write-Output ""
+Write-Output "Folder and file structure created. Total files created: $currentFileCount"
