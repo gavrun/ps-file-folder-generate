@@ -1,0 +1,13 @@
+Starting folder and file structure creation in 'D:\ps-file-folder-generate\root44'. Total size: 0.025 GB, File size: 0.25 MB.
+
+Created root: D:\ps-file-folder-generate\root44
+Created folder: D:\ps-file-folder-generate\root44\Folder001\Subfolder01
+Created 26 files from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root44\Folder001\Subfolder02
+Created 52 files from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root44\Folder002\Subfolder01
+Created 78 files from A.txt to Z.txt
+Created folder: D:\ps-file-folder-generate\root44\Folder002\Subfolder02
+Created 102 files from A.txt to Z.txt
+
+Folder and file structure created. Total files created: 102
