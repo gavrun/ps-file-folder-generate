@@ -21,9 +21,17 @@ configurable total size, file size, folder count, folder depth, file count
 
 message script execution folder and create new 'root' folder 
 
-structure to be expanding flexibly, need check if folder/file exists
+need check if folder/file exists
 
-later 
+if executed second time checks current size of all files and adjusts total size
+
+to be done:
+
+structure to be expanding flexibly, now it is limited by folder/subfolder count
+
+refactoring to functions 
+
+parallel processing
 
 variability for creating groups of folders by size and structure
 
@@ -31,5 +39,7 @@ creating a pyramid style shape of file structure
 from fat heavy folders/subfolders with 4 MB files to thin folders without subfolders, folders without files
 
 modify filename pattern to AA, AB array
+
+refactoring 
 
 will add more later when i know how
